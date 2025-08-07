@@ -1,6 +1,7 @@
 # Arduino-Pong-with-Mixed-Input-Controls
 
 This project is a complete implementation of the classic arcade game Pong, built on an Arduino and displayed on a monochrome OLED screen. The left paddle is controlled using a traditional analog potentiometer, providing simple and direct manual input. The right paddle offers a modern, hands-free experience by using an ultrasonic distance sensor to measure the position of the player's hand.
+
 ![photo_2025-08-07_07-59-17 (1)](https://github.com/user-attachments/assets/b66a639f-adca-4946-995e-d474fc7d00da)<br>
 
 ## **Features**
