@@ -10,6 +10,6 @@ This project is a complete implementation of the classic arcade game Pong, built
 * Includes a complete game reset and "play again" function.
 
 ## **Innovative Aspects**
-* **Hybrid Control System:** Blends a classic analog input (potentiometer) with a modern sensor-based input (ultrasonic) for two unique player experiences.
-* **Gesture-Based Control:** The ultrasonic sensor creates an intuitive, hands-free control system where a player moves their hand to position the paddle.
-* **Complete Game Loop:** Implements a full, standalone game experience from the title screen to gameplay, win conditions, and a restart menu.
+*  Blends a classic analog input (potentiometer) with a modern sensor-based input (ultrasonic) for two unique player experiences.
+*  The ultrasonic sensor creates an intuitive, hands-free control system where a player moves their hand to position the paddle.
+*  Implements a full, standalone game experience from the title screen to gameplay, win conditions, and a restart menu.
